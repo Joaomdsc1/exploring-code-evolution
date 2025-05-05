@@ -76,11 +76,18 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: [https://github.com/fastapi/fastapi](https://github.com/fastapi/fastapi)
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: Lines of code (LOC)
   
-3. Explicação: <EXPLICACAO_AQUI>
+3. Explicação: 
+O gráfico de LOC mostra uma evolução expressiva da base de código do FastAPI ao longo dos anos, partindo de 26.591 linhas em 2020 para 113.778 em 2025. Essa curva crescente indica uma expansão significativa da funcionalidade e da complexidade do projeto.
+
+Entre 2023 e 2024, houve o maior salto, com um aumento de aproximadamente 81% nas linhas de código (de 60.374 para 109.466). Esse crescimento pode estar relacionado a grandes mudanças no core do framework, adição de novas funcionalidades ou refatorações estruturais. De fato, ao analisar os releases do repositório, nota-se que o projeto teve várias atualizações importantes nesse período, incluindo melhorias de compatibilidade com novas versões do Python e extensões no sistema de validação.
+
+Apesar do aumento acelerado, não há evidência de redução de código (refatorações para simplificação), o que pode indicar crescimento contínuo sem foco claro em redução técnica de dívida. Essa tendência deve ser observada com atenção, pois o acúmulo de LOC pode dificultar a manutenção futura se não for acompanhado por boas práticas de modularização e testes.
+
+Em resumo, o gráfico mostra um projeto em crescimento ativo, com picos que coincidem com marcos importantes de desenvolvimento, refletindo uma comunidade engajada e uma evolução constante da base de código.
 
 
 
